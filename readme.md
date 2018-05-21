@@ -1,5 +1,5 @@
 
-This is for the V2 version
+This is for the new version
 demonstrating GIT
 
 this is not for git code 
